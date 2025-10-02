@@ -18,8 +18,14 @@
 A full-stack web app that suggests clothing based on the weather.  
 - **Stack:** React, Node.js, Express, MongoDB, JWT Auth  
 - Features: User authentication, item management, like/unlike system  
-- [Frontend Repo](https://github.com/yourusername/se_project_spots) | [Backend Repo](https://github.com/yourusername/se_project_express)
+- [Frontend Repo](https://github.com/wedderburn95/se_project_react.git) | [Backend Repo](https://github.com/wedderburn95/se_project_express.git)
 
+---
+### 🧥 [spots (Coffee shop website)](https://github.com/yourusername/se_project_express)
+A full-stack web app that suggests clothing based on the weather.  
+- **Stack:** React, Node.js, Express, MongoDB, JWT Auth  
+- Features: User authentication, item management, like/unlike system  
+- [Frontend Repo](https://github.com/wedderburn95/se_project_spots.git
 ---
 
 ### 🐾 [Animal Facts Explorer](https://github.com/yourusername/animal-facts)
