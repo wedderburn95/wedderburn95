@@ -14,7 +14,7 @@
 
 ## 🔥 Featured Projects
 
-### 🧥 [WTWR (What to Wear)](wtwr-git-main-williams-projects-c348079e.vercel.app)
+### 🧥 [WTWR (What to Wear)](https://wtwr-git-main-williams-projects-c348079e.vercel.app)
 A full-stack web app that suggests clothing based on the weather.  
 - **Stack:** React, Node.js, Express, MongoDB, JWT Auth  
 - Features: User authentication, item management, like/unlike system  
