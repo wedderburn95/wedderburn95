@@ -28,7 +28,7 @@ A full-stack web app that suggests clothing based on the weather.
 - [Frontend Repo](https://github.com/wedderburn95/se_project_spots.git
 ---
 
-### 🐾 [Animal Facts Explorer]([https://github.com/yourusername/animal-facts](https://final-project-animal-facts.vercel.app/))
+### 🐾 [Animal Facts Explorer]([https://github.com/yourusername/animal-facts](https://final-project-animal-facts.vercel.app/)
 Interactive app for browsing fun animal facts & GIFs.  
 - **Stack:** React, JavaScript, APIs  
 - Uses [catfact.ninja](https://catfact.ninja/) + GIPHY APIs  
