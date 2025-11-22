@@ -46,7 +46,7 @@ Interactive app for browsing fun animal facts & GIFs.
 ## 📫 Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/yourlinkedin)  
 - 🌐 [Portfolio Website](https://yourwebsite.com) *(coming soon)*  
-- 📧 your.email@example.com  
+- 📧 wwedderburn98@gmail.com  
 
 ---
-⭐️ From [William](https://github.com/yourusername)
+⭐️ From [William](https://github.com/wedderburn95)
