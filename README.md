@@ -34,14 +34,6 @@ Interactive app for browsing fun animal facts & GIFs.
 - Uses [catfact.ninja](https://catfact.ninja/) + GIPHY APIs  
 - Error handling, loading states, and retry button for better UX  
 - [Live Demo](https://final-project-animal-facts.vercel.app)  
-
----
-
-### 📦 [Other Project Name](https://github.com/yourusername/project-repo)
-One-liner description of what it does.  
-- **Stack:** Tech used here  
-- Features: short bullet points  
-
 ---
 
 ## 🛠️ Tech Stack
