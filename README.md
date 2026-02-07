@@ -44,7 +44,7 @@ Tools: Git, REST APIs, JWT, ESLint
 ---
 
 ## 📫 Connect With Me
-- 💼 [LinkedIn]([https://www.linkedin.com/in/yourlinkedin])  
+- 💼 [LinkedIn](https://www.linkedin.com/in/yourlinkedin)  
 - 🌐 [Portfolio Website](https://yourwebsite.com) *(coming soon)*  
 - 📧 wwedderburn98@gmail.com  
 
