@@ -1,6 +1,7 @@
 # Hi there, I'm William 👋
 
 💻 **Junior Software Developer** | Full-Stack (React, Node.js, MongoDB)
+Building meaningful apps & solving real-world problems.
 
 ---
 
@@ -37,14 +38,13 @@ Interactive app for browsing fun animal facts & GIFs.
 ---
 
 ## 🛠️ Tech Stack
-**Frontend:** React, JavaScript (ES6+), HTML5, CSS3  
-**Backend:** Node.js, Express, MongoDB  
-**Tools:** Git, REST APIs, JWT, ESLint, Netlify/Vercel  
+Python | React | JavaScript (ES6+) | Node.js | Express | MongoDB | HTML5 | CSS3
+Tools: Git, REST APIs, JWT, ESLint 
 
 ---
 
 ## 📫 Connect With Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourlinkedin)  
+- 💼 [LinkedIn]([https://www.linkedin.com/in/yourlinkedin](https://www.linkedin.com/feed/))  
 - 🌐 [Portfolio Website](https://yourwebsite.com) *(coming soon)*  
 - 📧 wwedderburn98@gmail.com  
 
