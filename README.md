@@ -31,6 +31,7 @@ A full-stack web application that helps users decide what to wear based on curre
 ### 🧥 [spots (website)](https://se-project-spots-k7x9uwno6-williams-projects-c348079e.vercel.app/)
 A responsive front-end web application where users can share and interact with photos. The project focuses on building reusable components and dynamic UI behavior with modern JavaScript.
 - **Tech Stack:** HTML, CSS, JavaScript (ES6), Webpack
+- 
 **Key Features:**
 - Interactive photo gallery
 - Like and delete functionality
@@ -43,6 +44,7 @@ A responsive front-end web application where users can share and interact with p
 ### 🐾 [Animal Facts Explorer]([https://github.com/wedderburn95/animal-facts](https://final-project-animal-facts.vercel.app/)
 An interactive web application that allows users to explore fun and educational animal facts along with related GIFs. The app integrates multiple third-party APIs to dynamically fetch and display content, while providing a smooth user experience with loading states and error handling. 
 - **Tech Stack:** React, JavaScript, APIs
+- 
 **Key Features:**
 - Fetches real-time animal facts from the Cat Facts API
 - Displays related animated GIFs using the GIPHY API
