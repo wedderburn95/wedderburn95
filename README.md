@@ -18,7 +18,7 @@ Building meaningful apps & solving real-world problems.
 ### 🧥 [WTWR (What to Wear)](https://wtwr-git-main-williams-projects-c348079e.vercel.app)
 A full-stack web application that helps users decide what to wear based on current weather conditions. The app allows users to manage their clothing items and interact with a personalized wardrobe.  
 - **Tech Stack:** React, Node.js, Express, MongoDB, JWT Auth  
-  **Key Features:**
+**Key Features:**
 -Secure user registration and login
 -Add, delete, and manage clothing items
 -Like/unlike clothing items
@@ -30,8 +30,8 @@ A full-stack web application that helps users decide what to wear based on curre
 ---
 ### 🧥 [spots (website)](https://se-project-spots-k7x9uwno6-williams-projects-c348079e.vercel.app/)
 A responsive front-end web application where users can share and interact with photos. The project focuses on building reusable components and dynamic UI behavior with modern JavaScript.
-- **Tech Stack:** HTML, CSS, JavaScript (ES6), Webpack 
-  **Key Features:**
+- **Tech Stack:** HTML, CSS, JavaScript (ES6), Webpack
+**Key Features:**
 - Interactive photo gallery
 - Like and delete functionality
 - Form validation for adding new content
