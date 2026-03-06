@@ -18,7 +18,7 @@ Building meaningful apps & solving real-world problems.
 ### 🧥 [WTWR (What to Wear)](https://wtwr-git-main-williams-projects-c348079e.vercel.app)
 A full-stack web application that helps users decide what to wear based on current weather conditions. The app allows users to manage their clothing items and interact with a personalized wardrobe.  
 - **Tech Stack:** React, Node.js, Express, MongoDB, JWT Auth  
-  ## Key Features:
+  ### Key Features:
 Secure user registration and login
 Add, delete, and manage clothing items
 Like/unlike clothing items
