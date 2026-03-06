@@ -19,11 +19,11 @@ Building meaningful apps & solving real-world problems.
 A full-stack web application that helps users decide what to wear based on current weather conditions. The app allows users to manage their clothing items and interact with a personalized wardrobe.  
 - **Tech Stack:** React, Node.js, Express, MongoDB, JWT Auth  
   ### Key Features:
-Secure user registration and login  \n
-Add, delete, and manage clothing items\n
-Like/unlike clothing items\n
-Weather-based clothing recommendations\n
-Protected routes using JWT authentication\n
+-Secure user registration and login
+-Add, delete, and manage clothing items
+-Like/unlike clothing items
+-Weather-based clothing recommendations
+-Protected routes using JWT authentication
 - [Frontend Repo](https://github.com/wedderburn95/se_project_react.git) |
 - [Backend Repo](https://github.com/wedderburn95/se_project_express.git)
 
