@@ -7,9 +7,9 @@ Building meaningful apps & solving real-world problems.
 
 ## 🚀 About Me
 - 🎓 Graduate of the TripleTen Full-Stack Engineering bootcamp  
-- 🌱 Building real-world projects from front-end UI to back-end APIs  
-- 🔧 Strong problem-solving mindset and eagerness to learn  
-- 🌍 Passionate about tech that helps solve energy & environmental challenges  
+- 💻 Full-stack developer experienced with React, JavaScript, Node.js, Express, and MongoDB  
+- 🛠️ Building real-world applications with REST APIs, authentication, and responsive UI design  
+- 🚀 Passionate about solving real problems with technology and continuously improving my skills 
 
 ---
 
