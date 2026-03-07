@@ -29,7 +29,7 @@ A full-stack web application that helps users decide what to wear based on curre
 - [Backend Repo](https://github.com/wedderburn95/se_project_express.git)
 
 ---
-### 🧥 [spots (website)](https://se-project-spots-k7x9uwno6-williams-projects-c348079e.vercel.app/)
+### 🧥 [Spots (website)](https://se-project-spots-k7x9uwno6-williams-projects-c348079e.vercel.app/)
 A responsive front-end web application where users can share and interact with photos. The project focuses on building reusable components and dynamic UI behavior with modern JavaScript.
 - **Tech Stack:** HTML, CSS, JavaScript (ES6), Webpack
 
